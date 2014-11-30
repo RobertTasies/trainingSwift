@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>02CE552A-BDA2-4A98-A7CD-917FD900E289</string>
+	<key>IDESourceControlProjectName</key>
+	<string>unWebView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BE47B42DC9F173F9A67C30CEA72053B702226026</key>
+		<string>https://github.com/RobertTasies/trainingSwift.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>unWebView/unWebView.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BE47B42DC9F173F9A67C30CEA72053B702226026</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/RobertTasies/trainingSwift.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BE47B42DC9F173F9A67C30CEA72053B702226026</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BE47B42DC9F173F9A67C30CEA72053B702226026</string>
+			<key>IDESourceControlWCCName</key>
+			<string>trainingSwift</string>
+		</dict>
+	</array>
+</dict>
+</plist>
